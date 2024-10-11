@@ -1,10 +1,13 @@
 # Tidbyt
-#Welcome to Tidbyt codenight.
+Welcome to Tidbyt codenight.
 
-#First, install Homebrew on your computer. Then, in your terminal, run the following:
-#brew install tidbyt/tidbyt/pixlet
+Setup here:
+https://tidbyt.dev/docs/build/installing-pixlet#install-on-windows
 
+Create your file like this:
+https://tidbyt.dev/docs/build/build-for-tidbyt
 
+Or copy this file https://github.com/matsgrosvik/Tidbyt/blob/main/template.star
 
-
+More documentation can be found here:
 https://tidbyt.dev/
